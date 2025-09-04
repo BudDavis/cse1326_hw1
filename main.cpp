@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "icao.h"
+#include "icao.hpp"
 
 // All records are in memory in a null terminated list
 // of pointers. Think 'C string' but with records

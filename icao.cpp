@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "icao.h"
+#include "icao.hpp"
 
 unsigned int
 num_records_in_file (char *fname)
